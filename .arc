@@ -1,5 +1,5 @@
 @app
-begin-app
+shiny-dgf
 
 @static
 folder build
